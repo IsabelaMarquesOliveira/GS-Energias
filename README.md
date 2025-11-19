@@ -1,5 +1,6 @@
 # 💡 Análise e Otimização de Consumo Energético para Escritórios Híbridos
 
+Vídeo do nosso projeto - https://www.youtube.com/watch?v=C6w7w0h0UT8
 ## 📘 Descrição do Projeto
 Este projeto tem como objetivo analisar e otimizar o **consumo energético em ambientes de trabalho híbridos**, promovendo eficiência e sustentabilidade.  
 Com base em dados de consumo e ocupação, o sistema identifica padrões de uso de energia, detecta desperdícios e propõe ajustes que podem ser aplicados por meio de **automação inteligente ou integração com IoT**.
